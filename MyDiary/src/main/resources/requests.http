@@ -1,0 +1,7 @@
+POST localhost:8080/parents
+Content-Type: application/json
+
+{
+  "firstName": "haha",
+  "lastName": "sdfasfd"
+}
